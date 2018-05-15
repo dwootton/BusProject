@@ -1,7 +1,6 @@
 library(shiny)
 library(plyr)
 library(tidyverse)
-library(tigris)
 library(acs)
 library(stringr)
 library(dplyr)
